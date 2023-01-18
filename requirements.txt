@@ -1,0 +1,6 @@
+lxml
+openlocationcode
+pandas
+pykml
+pyperclip
+selenium

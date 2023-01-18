@@ -1,0 +1,8 @@
+# A backup file
+places.xlsx.bak
+
+TODO.md
+out.kml
+data/
+
+__pycache__/
